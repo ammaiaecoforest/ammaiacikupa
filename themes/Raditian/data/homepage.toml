@@ -1,0 +1,206 @@
+[showcase]
+enable = true
+title = "Ammaia Ecoforest Cikupa"
+subtitle = "Launching Cluster Lavatera "
+description = "50 hektar pengembangan <i>green living</i> <a target='_blank' href='https://ammaiahome.com/'>Ammaia Ecoforest</a> dengan total hunian sebanyak 2.000 unit rumah ditambah area komersial. Township baru di kawasan Suvarna Sutera, <a href='https://investproperti.com/ammaia-ecoforest-perumahan-baru-astraland-di-cikupa-tangerang/'>Ammaia Ecoforest Cikupa</a> telah mendapatkan Sertifikasi Greenship Neighborhood peringkat Gold dari Green Building Council Indonesia (GBCI)."
+
+  [showcase.image]
+  x = "img/ammaia-cikupa/ammaia-ecoforest-cikupa.webp"
+  _2x = "img/ammaia-cikupa/ammaia-ecoforest-cikupa.webp"
+
+  [showcase.imageMobile]
+  x = "img/ammaia-cikupa/ammaia-ecoforest-cikupa.webp"
+
+  [showcase.button]
+  icon = "icon-mail-fill"
+  btnText = "Sales Ammaia Ecoforest"
+  URL = "https://ammaiahome.com/sales-rumah-ammaia-ecoforest/"
+
+  [[showcase.socialLinks]]
+  icon = "twitter"
+  URL = "https://twitter.com/ammaiahome"
+
+  [[showcase.socialLinks]]
+  icon = "behance"
+  URL = "https://www.behance.net/ammaiaecoforest"
+
+  [[showcase.socialLinks]]
+  icon = "youtube"
+  URL = "https://www.youtube.com/@ammaiahome"
+
+  [[showcase.socialLinks]]
+  icon = "instagram"
+  URL = "https://www.instagram.com/ammaiahome/"
+
+  [[showcase.socialLinks]]
+  icon = "facebook"
+  URL = "https://www.facebook.com/ammaiahome/"
+
+
+[about]
+enable = true
+title = "Mengenai Ammaia Ecoforest"
+content = '<p class="lead">50 hektar pengembangan hunian baru konsep green living dengan fitur community garden, pedestrian/jogging track sepanjang dan akses khusus ke ruang terbuka hijau (forest belt) seluas 5,4 hektar. Launching cluster Lavatera dengan 3 tipe rumah luas bangunan 84 meter persegi, 110 meter persegi dan 201 meter persegi, dengan <a href="https://www.propertilaunch.com/2023/10/ammaia-ecoforest-cikupa-perumahan-baru.html">harga jual rumah Ammaia Ecoforest</a> mulai dari Rp. 1,6 s/d Rp. 4,4 milyaran*.</p>'
+
+  [about.button]
+  icon = "icon-smile-fill"
+  btnText = "About Ammaia Ecoforest"
+  URL = "https://about.me/ammaiaecoforest"
+
+  [about.image]
+  x = "img/ammaia-cikupa/rumah-ammaia-ecoforest.webp"
+  _2x = "img/ammaia-cikupa/rumah-ammaia-ecoforest.webp"
+
+[education]
+enable = true
+title = "Pengembang"
+
+  [[education.items]]
+  university = "PT Astra Land Indonesia"
+  year = "2016-now"
+  degree = "Perusahaan joint venture antara Astra International dan Hongkong Land Ltd. PT Astra Land Indonesia merupakan kendaraan Astra Property Group untuk residential. Portfolio bisnis yang dimiliki saat ini adalah proyek township yang dikerjakan bersama PT Modernland Realty dibawah manajemen PT. Astra Modernland."
+
+  [[education.items]]
+  university = "Hongkong Land Ltd"
+  year = "1889-now"
+  degree = "Member of Jardine Matheson Group dan sebuah grup property terkemuka yang bergerak di property investment, management, dan development berbasis di Hongkong dan Singapura."
+
+[experience]
+enable = false
+title = "Experience"
+description = "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+
+  [experience.button]
+  icon = "icon-linkedin-fill"
+  btnText = "Linkedin"
+  URL = "https://www.linkedin.com/company/radity/"
+
+  [experience.button2]
+  icon = "icon-profile-fill"
+  btnText = "Download My Resume"
+  URL = "#"
+
+  [[experience.items]]
+  title = "Sr. Front-End Developer"
+  company = "Radity"
+  duration = "Feb 2011 - Sep 2019"
+
+  [[experience.items]]
+  title = "Sr. Front-End Developer"
+  company = "Textic"
+  duration = "Apr 2010 - Jan 2011"
+
+  [[experience.items]]
+  title = "Jr. Front-End Developer"
+  company = "Cyberse"
+  duration = "Jun 2009 - Mar 2010"
+
+[client_and_work]
+title = "Lokasi & Fasilitas"
+enable = true
+
+  [[client_and_work.works]]
+  title = "Lokasi Ammaia Ecoforest"
+  description = "Berada di kawasan Suvarna Sutera, lokasi Ammaia Ecoforest berjarak sekitar 15 menit dari Karawaci dan 20 menit dari Gading Serpong. Dari tol Cikupa berjarak 10 menit saja. Posisi Ammaia Ecoforest berdekatan dengan fasilitas Sekolah Santa Laurensia, Pasar Modern, tempat ibadah, supermarket, serta Ruko Terrace 8 dan 9."
+  is_even = true
+
+    [client_and_work.works.button]
+    icon = "icon-arrow-right"
+    btnText = "Lihat lokasi Ammaia Cikupa"
+    URL = "https://ammaiahome.com/lokasi-ammaia-ecoforest-cikupa-tangerang/"
+
+    [client_and_work.works.image]
+    x = "img/ammaia-cikupa/lokasi-ammaia-ecoforest-cikupa.webp"
+    _2x = "img/ammaia-cikupa/lokasi-ammaia-ecoforest-cikupa.webp"
+
+  [[client_and_work.works]]
+  title = "Fasilitas & Fitur"
+  description = "Ammaia Ecoforest Cikupa dilengkapi dengan fasilitas penunjang yang lengkap. Club house dengan kolam renang, area gym, children playground. Area terbuka hijau berupa community garden dan forest belt seluas 4,5 hektar."
+  is_even = false
+
+    [client_and_work.works.button]
+    icon = "icon-arrow-right"
+    btnText = "Master Plan Ammaia Cikupa"
+    URL = "https://ammaiahome.com/master-plan-ammaia-ecoforest-cikupa/"
+
+    [client_and_work.works.image]
+    x = "img/ammaia-cikupa/club-house-ammaia-ecoforest.webp"
+    _2x = "img/ammaia-cikupa/club-house-ammaia-ecoforest.webp"
+
+  [[client_and_work.works]]
+  title = "Dijual Rumah Ammaia Ecoforest Cikupa"
+  description = "Launching perdana cluster Lavatera Oktober 2023 dengan tipe rumah lebar 6, 7 dan 8 meter, luas bangunan 84, 110 dan 201 m2. Harga jual rumah Lavatera Ammaia Ecoforest rentang dari Rp. 1,6 s/d Rp. 4,4 milyaran*. Jadwal serah terima rumah Cluster Lavatera pada Q4 tahun 2025."
+  is_even = true
+
+    [client_and_work.works.button]
+    icon = "icon-arrow-right"
+    btnText = "Cluster Lavatera Ammaia Ecoforest"
+    URL = "https://ammaiahome.com/portfolio/cluster-lavatera-ammaia-ecoforest-cikupa-tangerang/"
+
+    [client_and_work.works.image]
+    x = "img/ammaia-cikupa/rumah-ammaia-ecoforest-cikupa.webp"
+    _2x = "img/ammaia-cikupa/rumah-ammaia-ecoforest-cikupa.webp"
+
+[testimonial]
+enable = false
+title = "Testimonials"
+
+  [[testimonial.items]]
+  name = "Daniel Jordan"
+  position = "Phonet, CEO"
+  content = "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+
+    [testimonial.items.image]
+    x = "img/testimonials/daniel-jordan.jpg"
+    _2x = "img/testimonials/daniel-jordan@2x.jpg"
+
+  [[testimonial.items]]
+  name = "Jonathan Peters"
+  position = "Textic, CEO"
+  content = "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+
+    [testimonial.items.image]
+    x = "img/testimonials/jonathan-peters.jpg"
+    _2x = "img/testimonials/jonathan-peters@2x.jpg"
+
+  [[testimonial.items]]
+  name = "Antonio Willis"
+  position = "Cyberse, CEO"
+  content = "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+
+    [testimonial.items.image]
+    x = "img/testimonials/antonio-willis.jpg"
+    _2x = "img/testimonials/antonio-willis@2x.jpg"
+
+[contact]
+enable = true
+title = "Kontak"
+
+  [contact.form]
+  action = "#"
+  full_name = "Nama anda"
+  email = "Email anda"
+  message = "Pesan anda"
+
+  [contact.phone]
+  title = "Whatsapp"
+  number = "+62-881-1682-643"
+
+  [contact.email]
+  title = "Email"
+  email = '<a href="mailto:ammaiahome@gmail.com">ammaiahome@gmail.com</a>'
+
+  [contact.address]
+  title = "Alamat Ammaia Ecoforest"
+  address = "Jl. Suvarna Sutera Boulevard No.19, Sindang Jaya, Tangerang Regency, Banten 15560"
+
+  [contact.button]
+  icon = "icon-mail-fill"
+  btnText = "Kirim Pesan"
+
+[newsletter]
+enable = false
+title = "Newsletter subscription"
+success_message = "Successfully subscribed"
+error_message = "Error while subscribing."
+note = "We'll never share your email with anyone else."
