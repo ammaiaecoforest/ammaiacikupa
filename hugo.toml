@@ -1,4 +1,5 @@
 baseURL = "https://ammaiaecoforest.github.io/"
+title = "Ammaia Ecoforest Cikupa"
 languageCode = "en-us"
 theme = "Raditian"
 
@@ -58,7 +59,8 @@ theme = "Raditian"
 
 
 [params]
-
+  title = "Ammaia Ecoforest Cikupa"
+  description = "Perumahan baru Astra Land di Cikupa Suvarna Sutera. Launching cluster Lavatera harga jual rumah Rp. 1,6 milyaran*"
   sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
